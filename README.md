@@ -9,4 +9,4 @@ instead building blocks are disappearing.
 As I've become more and more discouraged by MonoGame and left for Unity after all,
 I stopped working on this game and have no intention to do it any time soon.
 
-So you can use this game or its part for you own need as you like, I won't complain.
+So you can use this game or its parts for you own needs as you like, I won't complain.
