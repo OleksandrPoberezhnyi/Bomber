@@ -1,6 +1,6 @@
 This is a base for a possible game on Android developed using MonoGame engine.
 
-There is no UI because it's hell of a work to make UI in MonoGame (and I was not in the mood to lose my interest to
+There is no UI because it's hell of a work to make UI in MonoGame (and I was not in the mood to lose my interest in
 game developing itself wasting hours to create presentable start menu or score system);
 and another thing, on this stage our plane is not only a bomber but a destroyer too,
 because for testing reason when it makes contact with a building it's not destroying,
